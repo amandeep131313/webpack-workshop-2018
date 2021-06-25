@@ -1,5 +1,5 @@
 module.exports = ({mode}) => {
-    console.log(env)
+    console.log(mode)
     return {
         mode,
         output: {
